@@ -1,0 +1,73 @@
+/*odin-recipes style sheet*/
+
+/*below are the index signifiers*/
+.img {
+    text-align:center;
+    
+}
+
+.header {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+
+}
+
+#home {
+    background-color: lightyellow;
+
+}
+
+/* Above are the index signifiers*/
+/*Below are parm tilapia signifiers*/
+
+#parmtilapia {
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img,.img {
+    text-align: center;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+
+/* Above are parm tilapia signifiers*/
+/*Below are pork signifiers*/
+
+#pork {
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img,.img {
+    text-align: center;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+/* Above are pork signifiers*/
+/*Below are roast signifiers*/
+
+#roast {
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img,.img {
+    text-align: center;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}
+
+

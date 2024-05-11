@@ -1,20 +1,18 @@
 /*odin-recipes style sheet*/
 
+
 /*below are the index signifiers*/
-.img {
-    text-align:center;
-    
-}
 
 .header {
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
-
+    padding: 5px;
 }
 
 #home {
     background-color: lightyellow;
+    border: 5px solid black;
 
 }
 
@@ -24,10 +22,13 @@
 #parmtilapia {
     background-color:lightyellow;
     font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    padding: 15px;
 }
 
 .img,.img {
     text-align: center;
+    margin: 15px;
 }
 
 .header {
@@ -42,10 +43,14 @@
 #pork {
     background-color:lightyellow;
     font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    padding: 15px;
 }
 
 .img,.img {
     text-align: center;
+    margin: 15px;
+    
 }
 
 .header {
@@ -59,10 +64,13 @@
 #roast {
     background-color:lightyellow;
     font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    padding: 15px;
 }
 
 .img,.img {
     text-align: center;
+    margin: 15px;
 }
 
 .header {
